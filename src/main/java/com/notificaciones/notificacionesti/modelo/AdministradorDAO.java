@@ -8,7 +8,6 @@ package com.notificaciones.notificacionesti.modelo;
 // Imports ...
 
 import javax.transaction.Transactional;
-import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
 import org.springframework.data.repository.CrudRepository;
 
 
